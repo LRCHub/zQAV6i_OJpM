@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Bye by me",
+  "base_artist": "Vaundy",
+  "createdAt": "2025-12-01T00:30:22.019044Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bye Bye Love",
+      "artist": "The Everly Brothers",
+      "has_synced": true,
+      "path": "select/01_Bye_Bye_Love_The_Everly_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bye Bye Love",
+      "artist": "The Everly Brothers",
+      "has_synced": true,
+      "path": "select/02_Bye_Bye_Love_The_Everly_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bye Mom",
+      "artist": "Chris Janson",
+      "has_synced": true,
+      "path": "select/03_Bye_Mom_Chris_Janson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bye Mom",
+      "artist": "Chris Janson",
+      "has_synced": true,
+      "path": "select/04_Bye_Mom_Chris_Janson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bye-Bye",
+      "artist": "Jo Dee Messina",
+      "has_synced": true,
+      "path": "select/05_Bye-Bye_Jo_Dee_Messina.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It's Time You Learned About Good-Bye",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/06_It's_Time_You_Learned_About_Good-Bye_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It's Time You Learned About Good-Bye",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/07_It's_Time_You_Learned_About_Good-Bye_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bye Bye",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/08_Bye_Bye_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "BYE BYE",
+      "artist": "張震嶽",
+      "has_synced": true,
+      "path": "select/09_BYE_BYE_張震嶽.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bye-Bye",
+      "artist": "张震岳",
+      "has_synced": true,
+      "path": "select/10_Bye-Bye_张震岳.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "안녕 (Good-bye, Hello)",
+      "artist": "소녀시대-태티서",
+      "has_synced": true,
+      "path": "select/11_안녕_(Good-bye,_Hello)_소녀시대-태티서.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "안녕 (Good-bye, Hello)",
+      "artist": "Girls' Generation-TTS",
+      "has_synced": true,
+      "path": "select/12_안녕_(Good-bye,_Hello)_Girls'_Generation-TTS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bye Bye",
+      "artist": "LUNA",
+      "has_synced": true,
+      "path": "select/13_Bye_Bye_LUNA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "안녕 이대로 안녕 (BYE BYE)",
+      "artist": "LUNA",
+      "has_synced": true,
+      "path": "select/14_안녕_이대로_안녕_(BYE_BYE)_LUNA.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "London, Bye, Ta Ta",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/15_London,_Bye,_Ta_Ta_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "London, Bye, Ta-Ta - Stereo Version;2009 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/16_London,_Bye,_Ta-Ta_-_Stereo_Version;2009_Remastered_Version_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "London Bye Ta-Ta (Stereo Version)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/17_London_Bye_Ta-Ta_(Stereo_Version)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "London, Bye, Ta-Ta - Alternate Stereo Mix",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/18_London,_Bye,_Ta-Ta_-_Alternate_Stereo_Mix_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "London, Bye, Ta‐Ta (Alternate Stereo Mix)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/19_London,_Bye,_Ta‐Ta_(Alternate_Stereo_Mix)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "London, Bye, Ta‐Ta (Stereo Version)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/20_London,_Bye,_Ta‐Ta_(Stereo_Version)_David_Bowie.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "Bye by me",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/pl_Bye_by_me_Vaundy.txt"
+    }
+  ]
+}
